@@ -6,11 +6,11 @@ History
 
 V1.002
 
-Added arrows
+Added 7 arrow characters (←↑→↓↔↕↨).
 
 V1.001
 
-Add horizontal bar
+Add horizontal bar (―).
 
 V1.000
 
