@@ -15,3 +15,5 @@ Add horizontal bar (―).
 V1.000:
 
 First release.
+
+This file size is ~200 bytes.
