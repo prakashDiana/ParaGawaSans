@@ -1,8 +1,8 @@
 # Para Gawa Sans
 
-A font.
+A humanist sans-serif font.
 
-History
+### History:
 
 V1.002
 
@@ -14,4 +14,4 @@ Add horizontal bar (―).
 
 V1.000
 
-First release
+First release.
