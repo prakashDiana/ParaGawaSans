@@ -1,6 +1,6 @@
 # Para Gawa Sans
 
-A font
+A font.
 
 History
 
